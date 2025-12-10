@@ -1,0 +1,7 @@
+
+Tracing route to google.com [74.125.24.100]
+over a maximum of 30 hops:
+
+  1   288 ms   203 ms   205 ms  sf-in-f100.1e100.net [74.125.24.100] 
+
+Trace complete.
